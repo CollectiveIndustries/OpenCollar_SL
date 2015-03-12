@@ -62,6 +62,4 @@ Yay! Now that you know how to use your prefix, your channel, chat commands and t
 
     <prefix>runaway
     
-===============================    
  For a full manual, please visit www.opencollar.at
-===============================
